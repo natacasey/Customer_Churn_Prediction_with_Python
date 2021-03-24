@@ -10,7 +10,7 @@ The analysis was not specific to any individual company. The data used - [Pew Re
 ## Development
 
 - Programming language - Python 3.7.2
-- Programming language for variables exploration - R 3.6.2
+- Programming language for variables selection - R 3.6.2
 - Deep learning - Keras-Tensorflow
 - OS  - Windows 10 Home
 
