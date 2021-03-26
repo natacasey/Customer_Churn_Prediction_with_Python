@@ -14,7 +14,7 @@ The analysis was not specific to any individual company. The data used - [Pew Re
 - Deep learning - Keras-Tensorflow
 - OS  - Windows 10 Home
 
-### Best performing model (postive recall - 72%)
+### Best performing model (recall of the positive class - 72%)
 
 ![positive recall](https://github.com/natacasey/Customer_Churn_Prediction_with_Python/blob/main/_assets/recall_positive_class.PNG)
 
