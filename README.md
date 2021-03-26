@@ -1,4 +1,4 @@
-# Predicting Customer Churn due to Personal Data Use
+# Predicting Customer Churn due to Personal Data Use 
 
 ![personal data](https://github.com/natacasey/Customer_Churn_Prediction_with_Python/blob/main/_assets/personal_data.png)
 
